@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "858799022132",
+    "firebase_url": "https://goodle-f3334.firebaseio.com",
+    "project_id": "goodle-f3334",
+    "storage_bucket": "goodle-f3334.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858799022132:android:653845ab96a7fe4b",
+        "android_client_info": {
+          "package_name": "com.example.poojan.goodle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858799022132-32m5uq4gdst9nulpsq3hp455g3drv8qh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.poojan.goodle",
+            "certificate_hash": "6199c39052597b096f5aa6e5137f6f6791afedfa"
+          }
+        },
+        {
+          "client_id": "858799022132-33vn7r2i391nl033tnqbh5qoidiili3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClcKGvSIYA4DC8iEcQFvPqXSXfiVOcJUc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858799022132-33vn7r2i391nl033tnqbh5qoidiili3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
